@@ -1,0 +1,112 @@
+.. InstantRig documentation master file, created by
+   sphinx-quickstart on Thu Oct 26 16:45:54 2017.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Quick Start
+======================================
+   
+   
+InstantRig has an interactive tool bar. Panels are changed depend on which part of rig is selected.
+
+.. image:: /img/mainPanel.png
+
+|
+|
+
+- Set your character name or leave it blank. Click “Create Root Button”. It’s root controller of rig. Each time you click “Create Root Button” new set of rig will be created.
+
+.. image:: /img/qstart/qs_001.gif
+
+|
+|
+
+- Select root controller if it's not selected. “Hub” button will be enabled. Hub is main branch bone. Every other modules branch from Hub. Mostly it’s pelvis bone for bipedal or quadrupedal rigs. Now create hub bone.
+
+.. image:: /img/qstart/qs_002.gif
+
+|
+|
+
+- Now “Spine”, “Arm”, “Leg” and “Chain” buttons are be enabled. If they are not, be sure hub bone is selected. That means any of these modules can be branched from hub. Continue creating spine.
+
+.. image:: /img/qstart/qs_003.gif
+
+|
+|
+
+- When any part of spine selected, new rollout will be appear on panel named “Spine Attributes”. Change bone count and align chest as you wish. Spine bones cannot be rotated. “Pivot at Middle” option puts controller middle of chest when rig is builded. Otherwise pivot stays as it is.
+
+.. image:: /img/qstart/qs_004.gif
+
+|
+|
+
+- Select chest bone and click “Spine” button once again. It creates new spine module top of current spine. We will use it as head. Change bone count and align bones as you wish.
+
+.. image:: /img/qstart/qs_005.gif
+
+|
+|
+
+- Select head and click “Edit Mode”. It allows you to transform head bone without affecting pivot.
+
+.. image:: /img/qstart/qs_006.gif
+
+|
+|
+
+- Select chest bone and create arm. When you select any part of arm module new rollout will be appeared on panel named “Limb Attributes”. Align arm as you wish. Select hand and create fingers as many as you want.
+
+.. image:: /img/qstart/qs_007.gif
+
+|
+|
+
+- We need to create new symetrical arm on other side of chest. First select arm and click “Copy”. Select chest bone and create new arm. Be sure new arm is selected and click “Paste Mirror” button from “Copy/Paste” panel.
+
+.. image:: /img/qstart/qs_008.gif
+
+|
+|
+
+- Select hub bone and create leg. Adjust leg as you wish similar like we did arm. And paste mirror to other side.
+
+.. image:: /img/qstart/qs_009.gif
+
+|
+|
+
+- Now we will add ponytail to head. Select head bone and create chain. Adjust bone count and place bones as you wish.
+
+.. image:: /img/qstart/qs_010.gif
+
+|
+|
+
+- When we finish placing all modules to model, we are ready to build rig. Select any part of rig. Enter name to “Prefix” section or leave it blank. Click “Build Rig” button. In couple seconds rig will be ready to animation.
+
+.. image:: /img/qstart/qs_011.gif
+
+|
+|
+
+
+- Once rig is created, you can skin your character with InstantSkin feature with one click. 
+
+
+.. image:: /img/qstart/qs_012.gif
+
+.. note::
+
+ InstantSkin does not guarantee perfect skinning, you may need adjust skin weight depend on you character topology.
+
+|
+|
+|
+
+**Congratulations! You have a production ready and flexible character rig.**
+
+|
+|
+|

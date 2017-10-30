@@ -1,0 +1,62 @@
+.. InstantRig documentation master file, created by
+   sphinx-quickstart on Thu Oct 26 16:45:54 2017.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive. ext link `InstantRig <http://instantrig.com/>`_
+
+.. 600,336 snapshot size
+   
+.. |InstantRig| raw:: html
+
+   <a href="http://instantrig.com/" target="_blank">InstantRig</a>
+   
+.. sidebar:: InstantRig 1.5
+   
+   .. image:: /img/mainPanel.png
+   
+#######################################
+Welcome to the InstantRig User Manual!
+#######################################
+
+.. image:: /img/onlybox.jpg
+   :width: 350px
+   
+
+This is the user manual for the |InstantRig| Auto Rigging Tool
+
+|
+
+InstantRig is modular auto rigging tool for 3DS Max users focused keyframe cartoon animations. It helps riggers to create flexible, animator friendly and production quality rigs in minutes.
+
+|
+
+The intention of InstantRig is to help 3d artists, animators, riggers and generalists create great animated works in short time. 
+
+|
+|
+
+**InstantRig offers tools below to make things easy and fast without compromising quality:**
+
+- Auto Rigging tool
+ 
+- Auto Skinning tool
+ 
+- Auto Overlapping tool
+ 
+- Copy/Paste/Flip pose manager
+
+|
+|
+
+Contents
+---------
+
+.. toctree::
+   :maxdepth: 2
+   
+   /rst/install
+   /rst/qstart
+   /rst/rigging/rigging
+   /rst/animation/animation
+   /rst/faq
+   /rst/license
+  
