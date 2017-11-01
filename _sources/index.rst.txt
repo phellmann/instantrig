@@ -18,7 +18,7 @@ Welcome to the InstantRig User Manual!
 #######################################
 
 .. image:: /img/onlybox.jpg
-   :width: 350px
+   :width: 300px
    
 
 This is the user manual for the |InstantRig| Auto Rigging Tool
@@ -32,6 +32,7 @@ InstantRig is modular auto rigging tool for 3DS Max users focused keyframe carto
 The intention of InstantRig is to help 3d artists, animators, riggers and generalists create great animated works in short time. 
 
 |
+
 |
 
 **InstantRig offers tools below to make things easy and fast without compromising quality:**
@@ -45,6 +46,7 @@ The intention of InstantRig is to help 3d artists, animators, riggers and genera
 - Copy/Paste/Flip pose manager
 
 |
+
 |
 
 Contents
@@ -54,7 +56,6 @@ Contents
    :maxdepth: 2
    
    /rst/install
-   /rst/qstart
    /rst/rigging/rigging
    /rst/animation/animation
    /rst/faq
