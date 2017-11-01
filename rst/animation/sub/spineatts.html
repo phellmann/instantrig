@@ -95,11 +95,15 @@
 <li class="toctree-l1"><a class="reference internal" href="../../rigging/rigging.html">Rigging</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="../animation.html">Animation</a><ul class="current">
 <li class="toctree-l2"><a class="reference internal" href="features.html">Features</a></li>
+<li class="toctree-l2"><a class="reference internal" href="qstart.html">Quick Start</a></li>
 <li class="toctree-l2"><a class="reference internal" href="posemanager.html">Pose Manager</a></li>
 <li class="toctree-l2"><a class="reference internal" href="overlap.html">Auto Overlap</a></li>
 <li class="toctree-l2"><a class="reference internal" href="rootatts.html">Root</a></li>
 <li class="toctree-l2"><a class="reference internal" href="hubatts.html">Hub</a></li>
-<li class="toctree-l2 current"><a class="current reference internal" href="#">Spine</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">Spine</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#spine-attributes">Spine Attributes</a></li>
+</ul>
+</li>
 <li class="toctree-l2"><a class="reference internal" href="armlegatts.html">Arm &amp; Leg</a></li>
 <li class="toctree-l2"><a class="reference internal" href="chainatts.html">Chain</a></li>
 </ul>
@@ -171,6 +175,69 @@
             
   <div class="section" id="spine">
 <h1>Spine<a class="headerlink" href="#spine" title="Permalink to this headline">¶</a></h1>
+<p>There are three type of controllers in hub module. Main chest controller, inner chest controller, and spine controllers. These are same for the head module.</p>
+<img alt="../../../_images/spinectrl.gif" src="../../../_images/spinectrl.gif" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<div class="section" id="spine-attributes">
+<h2>Spine Attributes<a class="headerlink" href="#spine-attributes" title="Permalink to this headline">¶</a></h2>
+<p>These attributes can be found in the modifier stack if main chest controller is selected.</p>
+<img alt="../../../_images/spineatts1.png" src="../../../_images/spineatts1.png" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<dl class="docutils">
+<dt>Free Move:</dt>
+<dd><p class="first">If it’s enabled chest stays in place if parent controller moves, rotates or scales. As default chest moves with parent controller.</p>
+<div class="last figure" id="id1">
+<img alt="../../../_images/freemove.gif" src="../../../_images/freemove.gif" />
+<p class="caption"><span class="caption-text">freemove off - freemove on</span></p>
+</div>
+</dd>
+<dt>Rotation Absolute/Relative:</dt>
+<dd><p class="first">When “Free Move” disabled, chest orientation is affected from its parent rotation depends on slider value.</p>
+<div class="last figure" id="id2">
+<img alt="../../../_images/rar.gif" src="../../../_images/rar.gif" />
+<p class="caption"><span class="caption-text">abs/rel:1.0 - abs/rel:0.0</span></p>
+</div>
+</dd>
+<dt>Pivot Self/Parent:</dt>
+<dd><p class="first">When “Free Move” disabled, chest controller can be rotated between self and parent pivot depends on slider value.</p>
+<div class="last figure" id="id3">
+<img alt="../../../_images/psp.gif" src="../../../_images/psp.gif" />
+<p class="caption"><span class="caption-text">self/parent:0.0 - self/parent:1.0</span></p>
+</div>
+</dd>
+<dt>Curve Weight:</dt>
+<dd><p class="first">Distributes spine bone tan weights between top and bottom controllers. Spine bones follows more or less spine controllers depends on slider value.</p>
+<div class="last figure" id="id4">
+<img alt="../../../_images/curveweight.gif" src="../../../_images/curveweight.gif" />
+<p class="caption"><span class="caption-text">weight:0.5 - weight:1.0</span></p>
+</div>
+</dd>
+<dt>Squash:</dt>
+<dd><p class="first">Spine bones squashable depends on slider value.</p>
+<div class="last figure" id="id5">
+<img alt="../../../_images/squash.gif" src="../../../_images/squash.gif" />
+<p class="caption"><span class="caption-text">squash:0.0 - squash:1.0</span></p>
+</div>
+</dd>
+<dt>Constant Space:</dt>
+<dd><p class="first">Spine bone positions are distributed equally or bezier between top and bottom controllers.</p>
+<div class="last figure" id="id6">
+<img alt="../../../_images/constantspace.gif" src="../../../_images/constantspace.gif" />
+<p class="caption"><span class="caption-text">constant space on - constant space off</span></p>
+</div>
+</dd>
+</dl>
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+</div>
 </div>
 
 

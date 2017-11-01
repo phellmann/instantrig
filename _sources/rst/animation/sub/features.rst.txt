@@ -1,11 +1,27 @@
-.. InstantRig documentation master file, created by
-   sphinx-quickstart on Thu Oct 26 16:45:54 2017.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
 
 Features
 ==========
 
+Modular. You can rig what you need. Choose the number of fingers, toes, add tails, hairs, ears, breasts.
 
+Save your prototypes and don’t waste your time creating rigs from scratch everytime.
+
+Export to game engines. Bake your animations down to deform bones, without controllers, constraints etc. Easily export your characters to game engines.
+
+Fully scalable. You can resize your character any time. 
+
+Fully flexible. stretchy and curvy spine, legs, arms. 
+
+Pose manager. You can copy/paste/flip poses.
+
+Soft IK. Protects knee and elbow from poping.
+
+Auto spring for tails, hairs, ears, capes.
+
+Match and slide between IK/FK.
+
+Knees and elbows snapping.
+
+Easy controller customizing.
    
 

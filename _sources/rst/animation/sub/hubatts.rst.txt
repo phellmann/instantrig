@@ -4,8 +4,12 @@
    contain the root `toctree` directive.
 
 Hub
-==========
+======
 
+There are two controllers in hub module. One is main hub controller, other is hip controller.
 
+.. image:: /img/animation/hub/hubctrl.gif
+
+There is no additional attributes for hub module.
    
 
