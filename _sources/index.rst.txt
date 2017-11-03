@@ -50,6 +50,7 @@ Contents
 .. toctree::
    :maxdepth: 2
    
+   /rst/features
    /rst/install
    /rst/rigging/rigging
    /rst/animation/animation

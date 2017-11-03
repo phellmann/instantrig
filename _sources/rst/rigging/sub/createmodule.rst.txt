@@ -9,7 +9,7 @@ Creating Modules
 .. image:: /img/rigging/createmodule.png
 
 
-This panel allows users to branch rig from scratch. Every brach starts from hub and continues as can as user go.
+This panel allows users to branch rig from scratch. Every brach starts from hub and continues as far as user can go.
 
 **Contents**
 
@@ -20,6 +20,7 @@ This panel allows users to branch rig from scratch. Every brach starts from hub 
    /rst/rigging/sub/createmodule/spine
    /rst/rigging/sub/createmodule/armleg
    /rst/rigging/sub/createmodule/chain
+   /rst/rigging/sub/createmodule/editmode
    
 |
 |

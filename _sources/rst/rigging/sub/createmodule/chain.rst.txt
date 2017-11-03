@@ -6,7 +6,7 @@
 Chain
 ======================================
 
-If any bone of arm or leg module selected this rollout appears. It allows rigges to create arm or leg modules.
+Chains can be branch from any other module or from itself. It creates hierarchical fk chains for rig.
 
 |
 

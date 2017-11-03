@@ -16,7 +16,7 @@ There are three type of controllers in hub module. Main chest controller, inner 
 Spine Attributes
 -----------------
 
-These attributes can be found in the modifier stack if main chest controller is selected.
+These attributes can be found in the main chest controller's modifier stack.
 
 .. image:: /img/animation/spine/spineatts.png
    

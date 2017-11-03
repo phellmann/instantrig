@@ -15,7 +15,7 @@ InstantRig has an interactive tool bar. Panels are changed depend on which part 
 
 |
 
-- Set your character name or leave it blank. Click “Create Root Button”. It’s root controller of rig. Each time you click “Create Root Button” new set of rig will be created.
+- Set your character name or leave it blank. Click “Create Root” button. It’s root controller of rig. Each time you click “Create Root” button new set of rig will be created.
 
 .. image:: /img/rigging/qstart/qs_001.gif
 

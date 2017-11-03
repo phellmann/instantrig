@@ -10,13 +10,8 @@ Once rig is builded, every controller has its own attribute panels in modifier s
 .. toctree::
    :maxdepth: 2
    
-   /rst/animation/sub/features
    /rst/animation/sub/qstart
    /rst/animation/sub/posemanager
    /rst/animation/sub/overlap
-   /rst/animation/sub/rootatts
-   /rst/animation/sub/hubatts
-   /rst/animation/sub/spineatts
-   /rst/animation/sub/armlegatts
-   /rst/animation/sub/chainatts
+   /rst/animation/sub/modules
    
