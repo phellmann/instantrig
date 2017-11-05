@@ -1,0 +1,49 @@
+
+Root
+==========
+
+Root is the main parent of character. You can rescale or place your character anywhere in the scene.
+
+.. image:: /img/animation/root/rootctrl.gif
+
+|
+|
+
+Root Attributes
+----------------
+
+These attributes can be found in the modifier stack if root controller is selected.
+
+.. image:: /img/animation/root/rootatts.png
+
+|
+
+Pose Manager:
+ Starts Pose Manager panel. See :doc:`/rst/animation/sub/posemanager`.
+ 
+|
+
+Auto Overlap:
+ Starts Auto Overlapping panel. See :doc:`/rst/animation/sub/overlap`.
+
+|
+ 
+Extract:
+ InstantRig allows users to export FBX or any format making possible to use the rigged characters in Unity or other game engines.
+ 
+ Extract rig: 
+  It makes rigs down to their deformation bones and bakes their animations.
+  
+ Include Animations: 
+  Bakes animations to extracted bones.
+  
+ Keep Hierarchy: 
+  Keeps parent-child relation between bones. Otherwise all bones stay unparented.
+
+ Keep Blend Bones: 
+  Keeps blend bones at knees, elbows, wrists and shoulders.
+  
+ Create Tip Bones: 
+  Creates tip bones for every last bone in hierarchy tree.
+
+

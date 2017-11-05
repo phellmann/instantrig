@@ -1,0 +1,30 @@
+.. InstantRig documentation master file, created by
+   sphinx-quickstart on Thu Oct 26 16:45:54 2017.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+License Agreement
+======================================
+
+
+- The intention of InstantRig is to help 3d artists, animators, riggers and generalists create great animated work.
+
+- By downloading InstantRig, you confirm that you have read the license agreement, that you understand them and that you agree to be bound by them.
+
+- One InstantRig license is for one user. Users can use their own licensed scripts on any other computer. Each user needs to buy their own license.
+
+- Users are allowed to share or sell their own characters rigged with InstantRig.
+
+- By purchasing InstantRig, you agree to not distribute the scripts or any portion of them.
+
+- If you are having technical difficulties caused by product, you can return up to 7 days from the date you purchased contacting support@instantrig.com with materials prove your problem. After getting approval, you’ll get refund via platfotm that you buy product.
+
+|
+
+**FIRAT KIRAL**
+
+support@instantrig.com
+
+   
+
+|

@@ -1,0 +1,19 @@
+.. InstantRig documentation master file, created by
+   sphinx-quickstart on Thu Oct 26 16:45:54 2017.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Edit Mode
+======================================
+
+It allows users to change objects transform offset without affecting its pivot.
+
+.. image:: /img/rigging/createmodule/editmode.gif
+
+|
+
+Edit Mode: 
+ It allows rigger to edit transform of any bone mesh without affecting pivot.
+ 
+Reset: 
+ If any bone’s transform edited from edit mode, it resets transform to default.

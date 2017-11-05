@@ -1,0 +1,17 @@
+
+Animation
+==========
+
+Once rig is builded, every controller has its own attribute panels in modifier stack. Builded rigs are fully scalable from root controller. Each controller can be translated, rotated and scaled if its available.
+
+
+**Contents**
+
+.. toctree::
+   :maxdepth: 2
+   
+   /rst/animation/sub/qstart
+   /rst/animation/sub/posemanager
+   /rst/animation/sub/overlap
+   /rst/animation/sub/modules
+   
