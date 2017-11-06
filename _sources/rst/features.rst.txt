@@ -2,26 +2,58 @@
 Features
 ==========
 
-Modular. You can rig what you need. Choose the number of fingers, toes, add tails, hairs, ears, breasts.
+- Rig everything. Choose the number of fingers, toes, add tails, hairs, ears, breasts.
 
-Save your prototypes and don’t waste your time creating rigs from scratch everytime.
+ .. image:: /img/features/chars.jpg
+    :width: 400px
+	
+- Pose manager. You can copy/paste/flip poses.
 
-Export to game engines. Bake your animations down to deform bones, without controllers, constraints etc. Easily export your characters to game engines.
+ .. image:: /img/animation/pm/fliplimbs.gif
+    :width: 400px
+	
+- Instant Skin. Skin your characters in seconds.
 
-Fully scalable. You can resize your character any time. 
+ .. image:: /img/rigging/qstart/qs_012.gif
+    :width: 400px
 
-Fully flexible. stretchy and curvy spine, legs, arms. 
+- Save your prototypes and don’t waste your time creating rigs from scratch everytime.
 
-Pose manager. You can copy/paste/flip poses.
+ .. image:: /img/features/loadchar.gif
+    :width: 400px
 
-Soft IK. Protects knee and elbow from poping.
+- Export to game engines. Bake your animations down to deform bones, without controllers, constraints etc. Easily export your characters to game engines.
 
-Auto spring for tails, hairs, ears, capes.
+ .. image:: /img/features/export.gif
+    :width: 400px
 
-Match and slide between IK/FK.
+- Auto overlapping action for all character controllers.
 
-Knees and elbows snapping.
+ .. image:: /img/animation/overlap/demo.gif
+    :width: 400px
 
-Easy controller customizing.
+- Fully scalable. You can resize your character any time.
+
+ .. image:: /img/features/scalable.gif
+    :width: 400px
+
+- Fully flexible. Stretchy and curvy spine, legs, arms. 
+
+
+- Soft IK. Protects knee and elbow from poping.
+
+
+- Match and slide between IK/FK.
+
+
+- Knees and elbows snapping.
+
+
+- Easy controller customizing.
+
+- And more...
    
 
+|
+|
+|
