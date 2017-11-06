@@ -1,0 +1,18 @@
+
+Tips & Tutorials
+======================================
+
+
+You can find useful tips and tutorials here.
+
+|
+
+.. toctree::
+   :maxdepth: 2
+   
+   /rst/tips-tuts/tips
+   /rst/tips-tuts/tuts
+
+   
+
+|

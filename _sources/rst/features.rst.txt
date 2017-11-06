@@ -12,7 +12,7 @@ Features
  .. image:: /img/animation/pm/fliplimbs.gif
     :width: 400px
 	
-- Instant Skin. Skin your characters in seconds.
+- InstantSkin. Skin your characters in seconds.
 
  .. image:: /img/rigging/qstart/qs_012.gif
     :width: 400px

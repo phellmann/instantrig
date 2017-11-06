@@ -54,6 +54,7 @@ Contents
    /rst/install
    /rst/rigging/rigging
    /rst/animation/animation
+   /rst/tips-tuts
    /rst/faq
    /rst/license
   
