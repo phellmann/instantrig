@@ -2,4 +2,58 @@
 Tips
 ======================================
 
-**Coming Soon...**
+- **Rigging cat legs**
+
+ Back Leg:
+
+ .. image:: /img/tips-tuts/tips/rigcatbackleg.gif
+    :width: 400px
+	
+ |
+ 
+ Front Leg:
+ 
+ .. image:: /img/tips-tuts/tips/rigcatfrontleg.gif
+    :width: 400px
+	
+|
+|
+
+	
+- **Rigging horse legs**
+
+ Back Leg:
+
+ .. image:: /img/tips-tuts/tips/righorsebackleg.gif
+    :width: 400px
+	
+ |
+ 
+ Front Leg:
+ 
+ .. image:: /img/tips-tuts/tips/righorsefrontleg.gif
+    :width: 400px
+	
+	
+|
+|
+
+- **Linking**
+
+ If you try to link controllers to any object, controller will jump another place because its parent space is changed. To prevent from this first copy pose, then link controller and paste pose.
+
+ .. image:: /img/tips-tuts/tips/linking.gif
+    :width: 400px
+	
+|
+|
+
+- **Duplicating Characters**
+
+ Trying to duplicate character in scene will cause errors. To prevent from this merge same character in to scene as many as you want.
+
+ .. image:: /img/tips-tuts/tips/duplicating.gif
+    :width: 400px
+	
+|
+|

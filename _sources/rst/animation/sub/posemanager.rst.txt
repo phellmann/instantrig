@@ -51,7 +51,7 @@ Flip Pose:
 	
  |
  
- Let's give it another try.
+ Let's give it an another try.
  
  .. image:: /img/animation/pm/fliplimbs.gif
 
@@ -71,7 +71,7 @@ Single Mode:
 |
 	
 Reset Single:
- Select all controllers which you want to reset and click reset. On single mode, only selected controllers get back to their default values. On module mode  only the module which has first selected controller will be reset.
+ Select all controllers which you want to reset and click reset. On single mode, only selected controllers get back to their default values.
  
  .. image:: /img/animation/pm/resetsingle.gif
  
@@ -85,7 +85,7 @@ Reset Module:
 |
 
 Clear Cache:
- It removes last saved pose files. All files are stored "your max project folder\sceneassets\animations\ folder.
+ It removes last saved pose files. All files are stored at "your max project folder/sceneassets/animations" folder.
 
 
 |
